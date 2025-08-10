@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { searchWikiTitles } from "./api/wike";
+import { searchWikiTitles } from "./api/wiki";
 import "./App.css";
 
 
